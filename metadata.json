@@ -1,0 +1,5 @@
+{
+  "name": "PropManage",
+  "description": "A modern property management dashboard for tracking tasks, generating reports, and managing buildings and users.",
+  "requestFramePermissions": []
+}
